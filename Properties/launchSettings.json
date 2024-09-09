@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "#2 Task (6_9) collecton list": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
